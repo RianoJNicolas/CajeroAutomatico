@@ -59,10 +59,10 @@ var imagenes = [];
 var transacciones = 0;
 var dinerocaja = 0;
 
-imagenes["100000"] = "100000.png";
-imagenes["50000"] = "50000.png";
-imagenes["20000"] = "20000.png";
-imagenes["10000"] = "10000.png";
+imagenes["100000"] = "images/100000.png";
+imagenes["50000"] = "images/50000.png";
+imagenes["20000"] = "images/20000.png";
+imagenes["10000"] = "images/10000.png";
 
 caja.push(new Billete("100000", 50));
 caja.push(new Billete("50000", 20));
